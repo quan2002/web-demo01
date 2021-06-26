@@ -1,0 +1,12 @@
+body{
+    background-color: yellowgreen;
+}
+h1{
+    color: black;
+}
+h2{
+    color: rebeccapurple;
+}
+h3 {
+    color: aqua;
+}
